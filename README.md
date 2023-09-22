@@ -11,7 +11,7 @@ Requires:
 
 You can install through the following steps:
 ```bash
-# clone SADP-GOPS repository
+# clone SADP repository
 git clone https://github.com/superwhale115/SADP.git
 cd SADP
 # create conda environment

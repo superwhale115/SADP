@@ -28,3 +28,6 @@ Train the policy by running:
 python example/infsadp/infsadp_mlp_idpendulum_offserial.py
 ```
 The training results will be saved under the direction ./results
+
+## Supplementary materials
+Any user can find the appendices and experimental video in the "Supplementary materials" folder.
